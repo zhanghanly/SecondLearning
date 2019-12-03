@@ -1,5 +1,6 @@
 #include <iostream>
 
+extern int sum(int, int);
 
 int main()
 {
