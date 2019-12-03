@@ -12,5 +12,6 @@ int main()
 	std::cout << "solve confilict" << std::endl;
 	std::cout << "a new branch vdd" << std::endl;
 	std::cout << "a new branch ddv" << std::endl;
+	std::cout << "a new remote dev" << std::endl;
 	return 0
 }
