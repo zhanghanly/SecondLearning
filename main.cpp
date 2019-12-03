@@ -11,5 +11,6 @@ int main()
 	std::cout << "create a new branch which is named feature1" << std::endl;
 	std::cout << "solve confilict" << std::endl;
 	std::cout << "a new branch vdd" << std::endl;
+	std::cout << "a new branch ddv" << std::endl;
 	return 0
 }
