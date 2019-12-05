@@ -13,5 +13,7 @@ int main()
 	std::cout << "a new branch vdd" << std::endl;
 	std::cout << "a new branch ddv" << std::endl;
 	std::cout << "a new remote dev" << std::endl;
+	std::cout << "No userName and Password" << std::endl;	
+
 	return 0;
 }
